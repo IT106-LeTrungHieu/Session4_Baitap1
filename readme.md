@@ -9,8 +9,9 @@
 
 # Bước 2. Sửa lỗi
 
-a) US2: Là một khách hàng, tôi muốn một giao diện đặt món ăn với hình ảnh trực quan, nút bấm thêm vào giỏ dễ nhìn dễ ấn để tôi có thể đặt món một cách dễ dàng
-b) Viết lại US4
+## a) US2: Là một khách hàng, tôi muốn một giao diện đặt món ăn với hình ảnh trực quan, nút bấm thêm vào giỏ dễ nhìn dễ ấn để tôi có thể đặt món một cách dễ dàng
+
+## b) Viết lại US4
 
 - 4.1: Là một admin, tôi muốn xem biểu đồ doanh thu lọc theo ngày/tuần/tháng, để nắm bắt tình hình kinh doanh tổng quan
 - 4.2: Là một admin, tôi muốn lọc báo cáo doanh thu theo từng khu vực và nhà hàng, để đánh giá hiệu quả từng điểm bán.
